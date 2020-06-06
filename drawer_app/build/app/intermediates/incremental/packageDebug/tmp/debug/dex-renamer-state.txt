@@ -1,0 +1,4 @@
+#Fri Jun 05 21:34:43 CDT 2020
+base.0=/home/mothy/Documentos/trabajosTec/Drawer/drawer_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
